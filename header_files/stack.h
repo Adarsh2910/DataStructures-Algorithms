@@ -1,3 +1,10 @@
+/*
+ * stack.h - Implementation of stack data structure 
+ * Date: 13-August-2018
+ *
+ * Created By: Adarsh Bhalotia
+ */
+
 #include<stdlib.h>
 
 struct Stack

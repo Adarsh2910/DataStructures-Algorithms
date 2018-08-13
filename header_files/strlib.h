@@ -1,5 +1,5 @@
 /*
- * strlib.h - Implementation of C string manipulation functions
+ * strlib.h - Implementation of C string manipulation functions (string.h)
  * Date: 27-July-2018
  *
  * Created By: Adarsh Bhalotia
